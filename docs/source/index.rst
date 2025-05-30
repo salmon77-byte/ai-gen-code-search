@@ -4,7 +4,7 @@
 
 Welcome to the AI-generated code search project, a suite of tools and libraries integrated in the
 AboutCode stack to discover the origin of code fragments, possibly derived from open source code
-using AI code genertion.
+using AI code generation.
 
 .. toctree::
     :maxdepth: 2
